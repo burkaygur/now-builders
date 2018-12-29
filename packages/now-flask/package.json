@@ -1,5 +1,5 @@
 {
-  "name": "@now/python",
+  "name": "@now/flask",
   "version": "0.0.40",
   "main": "index.js",
   "license": "MIT",
