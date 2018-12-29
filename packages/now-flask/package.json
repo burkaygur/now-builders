@@ -1,6 +1,6 @@
 {
-  "name": "@now/flask",
-  "version": "0.0.40",
+  "name": "nowflask",
+  "version": "0.0.41",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {

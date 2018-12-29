@@ -1,7 +1,7 @@
 from http.server import HTTPServer
 import json
 import requests
-from __NOW_HANDLER_FILENAME import handler
+from __NOW_HANDLER_FILENAME import app
 import _thread
 
 from wsgiref.simple_server import make_server
